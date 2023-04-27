@@ -8,3 +8,4 @@ audio_recorder_streamlit
 matplotlib
 ez_setup
 plotly
+googleads
