@@ -1,0 +1,11 @@
+joblib
+webbrowser
+scikit-learn
+parselmouth
+librosa
+pydub
+pyin
+seaborn
+audio_recorder_streamlit
+matplotlib
+plotly
