@@ -6,4 +6,4 @@ pyin
 seaborn
 audio_recorder_streamlit
 matplotlib
-plotly-express
+plotly.express
