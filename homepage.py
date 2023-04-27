@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import joblib
 import webbrowser
 from sklearn.model_selection import train_test_split
 from sklearn.svm import SVC
@@ -9,7 +8,6 @@ import parselmouth
 import librosa
 import pydub
 import pyin
-import pydub
 import seaborn as sns
 from audio_recorder_streamlit import audio_recorder
 import matplotlib.pyplot as plt
